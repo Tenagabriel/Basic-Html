@@ -2,3 +2,11 @@
   width: 100px;
   border: 2px solid grey;
 }
+
+.link {
+  font-size: large;
+}
+
+a:hover {
+  color: pink;
+}
